@@ -1,6 +1,6 @@
 # Abstract-Cartoon-Images-Generation-System
 
-It consists of three stages:
+The generation system consists of three stages:
 
 Stage I: Image generation using GAN 
 
